@@ -1,0 +1,14 @@
+streamlit
+streamlit-folium
+folium
+pandas
+numpy
+requests
+python-dotenv
+plotly
+streamlit-chat
+streamlit-extras
+streamlit-option-menu
+streamlit-lottie
+pillow
+altair
